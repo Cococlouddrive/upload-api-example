@@ -10,7 +10,7 @@ define("key2", "key here 2");
 
 function apiToken() {
   
-  $url = "https://cococloud-drive.com/api/v2/authorize"."?key1=".key1."&key2=".key2;
+  $url = "https://cloud.cocotweaks.com/api/v2/authorize"."?key1=".key1."&key2=".key2;
 
   $curl = curl_init();
 
@@ -62,7 +62,7 @@ function uploadFile() {
     'folder_id' => '632'
   );
     
-  $url = "https://cococloud-drive.com/api/v2/file/upload";
+  $url = "https://cloud.cocotweaks.com/api/v2/file/upload";
 
   $curl = curl_init();
 
