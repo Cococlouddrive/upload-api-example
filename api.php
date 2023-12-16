@@ -1,6 +1,6 @@
 <?php
 
-//Get Keys: https://cloud.nabzclan.vip/account/edit
+//Get Keys: https://cloud.cocotweaks.com/account/edit
 
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
