@@ -1,6 +1,6 @@
 # upload-api-example
 
 
-[Generate API Keys](https://cococloud-drive.com/account/edit)
+[Generate API Keys](https://cloud.cocotweaks.com/account/edit)
 
-[API Documentation](https://cococloud-drive.com/api)
+[API Documentation](https://cloud.cocotweaks.com/api)
